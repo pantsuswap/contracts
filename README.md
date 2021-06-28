@@ -4,9 +4,9 @@ https://pantsuswap.com
 
 ## Deployed Contracts by PantsuSwap
 
-- PantsuToken: [0x30a7419B308848808744E54e7B23AC47c3f0d530](https://polygonscan.com/address/0x30a7419B308848808744E54e7B23AC47c3f0d530)
-- MasterChef: [0x2Ac28AE268563907f0FC0Ba4C1DCA1Fa5DBD0d77](https://polygonscan.com/address/0x2Ac28AE268563907f0FC0Ba4C1DCA1Fa5DBD0d77)
-- PantsuReferral: [0x81Ff04043726c9f11bC97a26EB9f05B38E0c39dc](https://polygonscan.com/address/0x81Ff04043726c9f11bC97a26EB9f05B38E0c39dc)
+- PantsuToken: [0x396600A51958b45957726BC097f2217DeAB915Db](https://polygonscan.com/address/0x396600A51958b45957726BC097f2217DeAB915Db)
+- MasterChef: [0x6af5a990f6838069d4fFadC7605C817262D10F39](https://polygonscan.com/address/0x6af5a990f6838069d4fFadC7605C817262D10F39)
+- PantsuReferral: [0xD6ad0C1Dac6E0a5a394C321A5B58f06DC9B63030](https://polygonscan.com/address/0xD6ad0C1Dac6E0a5a394C321A5B58f06DC9B63030)
 
 ## Deployed by QuickQwap
 
